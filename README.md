@@ -1,3 +1,22 @@
-# vscode-
-descrição da minha amiga chamada fernanda, mostrando algumas caracteristicas dela contendo altura etc.
-eu descobri hoje com a aula de pensamento que posso fazer algumas coisas como mexer nas pastas e mexer no vscode.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Pessoal</title>
+</head>
+<body>
+
+    <h1>Olá, Mundo! Eu sou [Seu Nome]</h1>
+    <p>Esta é a minha primeira página HTML. Estou aprendendo a criar sites e estou muito empolgado com isso.</p>
+   
+    <h2>Coisas que eu gosto de fazer:</h2>
+    <ul>
+        <li>Assistir filmes</li>
+        <li>Ouvir música</li>
+        <li>Caminhar ao ar livre</li>
+        <li>Aprender a programar</li>
+    </ul>
+
+</body>
+</html>
